@@ -18,7 +18,7 @@ Hello! I'm an **energetic and curious electrical engineering student** with a de
 | **Education** | B.Tech in Electrical Engineering, Haldia Institute of Technology (2025 - Present) |
 | **Background** | Science Stream (PCMB), Tamluk Hamilton High School |
 | **Location** | Tamluk, West Bengal, India |
-| **Achievements** | 🏆 9.5 SGPA (1st Semester), 1x Hackathon Winner |
+| **Achievements** | 🏆 9.5 SGPA (1st Year), 1x Hackathon Winner |
 | **Goals** | 9+ CGPA, Crack GATE, Internships at ISRO/DRDO/Microsoft |
 | **Learning Style** | Night owl 🦉, driven by structured notes, flowcharts, and tables |
 | **Interests** | Coding, Core Engineering, Call of Duty, Chess, Personal Branding |
