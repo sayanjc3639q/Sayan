@@ -129,7 +129,7 @@ My daily routine is a disciplined mix of academics, skill-building, and strategi
 
 | Achievement | Details |
 |:------------|:--------|
-| 🎓 **Academic Excellence** | 9.5 SGPA in 1st Semester |
+| 🎓 **Academic Excellence** | 9.5 YGPA in 1st Year |
 | 🏆 **Hackathon Winner** | 1x Hackathon Champion |
 | 🎯 **Target Internships** | ISRO / DRDO / Microsoft |
 | 📚 **Learning Goals** | Crack GATE Examination |
